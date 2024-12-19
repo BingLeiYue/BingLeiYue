@@ -24,16 +24,13 @@ Passionate about programming and open source, continuously learning and growing.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
 
 ## GitHub 统计 | Statistics 📊
-![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Luosmallrui&show_icons=true&theme=tokyonight)
+![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Yuebinglei&show_icons=true&theme=tokyonight)
 
 ## 常用语言 | Most Used Languages ⌨️
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Luosmallrui&layout=compact&theme=tokyonight)
-
-## 联系我 | Contact Me 📫
-- 📧 Email: 690722590@qq.com
+![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuebinglei&layout=compact&theme=tokyonight)
 
 ## 访客数 | Visitors 👀
-![访客数](https://profile-counter.glitch.me/Luosmallrui/count.svg)
+![访客数](https://profile-counter.glitch.me/Yuebinglei/count.svg)
 
 ---
-⭐️ From [Luosmallrui](https://github.com/Luosmallrui)
+⭐️ From [Yuebinglei](https://github.com/Yuebinglei)
